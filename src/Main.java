@@ -27,5 +27,6 @@ public class Main {
                 sign++;
         }while(sign ==0);
 
+        System.out.print("\n===Terima Kasih===");
     }
 }
